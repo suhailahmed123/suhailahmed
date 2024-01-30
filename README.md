@@ -28,14 +28,6 @@
 
 Feel free to reach out for collaborations or just a friendly chat!
 
-## 📈 My GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhailahmed&show_icons=true)
-
-<!-- This section can include GitHub stats, streaks, most used languages, etc. -->
-
----
-
 ⭐️ From [suhailahmed](https://github.com/suhailahmed123)
 
 ## 🎵 Spotify status
