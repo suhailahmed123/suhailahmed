@@ -1,34 +1,24 @@
-<h1 align="center">Hi 👋, I'm Johnny</h1>
-<h3 align="center">A software engineer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm Suhail Ahmed</h1>
+<h3 align="center">A software engineer from Bengaluru, India</h3>
 
 ## 💬 Ask me about
-- Backend web development (Python, TypeScript, PHP)
-- Frontend web development (Vue.js, React.js)
-- Docker
-- Deep Learning and Machine Learning
-- Cloud Architecture
-- Design Patterns
-- Gardening (Bonsai enthusiast :evergreen_tree:)
-- Side projects (Lazy Link ft. @dmfigueroa)
+- Backend web development (Java, Spring, SpringBoot, Hibernate)
+- Frontend web development (HTML, CSS, JavaScript)
 
 ## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
+- Solve programming problems at Hacker Rank
 - Watch anime and TV shows
-- Read some manga
-- Play videogames
+- Write Qutoes
+- Listen Music and Nasheeds
 - etc...
 
 ## 💻 Current projects
-- viajin [WIP] - Side project
-- budget [WIP] - Side project
-- todo [WIP] - Side project
+- Food.com[Restaurant Website]
 
 ## 📚 Learning
-- React.js with my wife 👩‍❤️‍👨
-- Hono.js with RPC
-- Remix
-- TypeScript
-- Cloudflare workers
+- React.js
+- JavaScript
+- Spring, SpringBoot
 
 ## 🎵 Spotify status
 
