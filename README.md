@@ -20,6 +20,16 @@
 - JavaScript
 - Spring, SpringBoot
 
+## Connect with Me 🌍
+
+- Instagram: [@i_suhailahmed](https://www.instagram.com/i_suhailahmed/)
+- LinkedIn: [R Suhail Ahmed](https://www.linkedin.com/in/rsuhailahmed/)
+- Email: [suhailahmed.cse.rymec@gmail.com](mailto:suhailahmed.cse.rymec@gmail.com)
+
+Feel free to reach out for collaborations or just a friendly chat!
+
+---
+
 ## 🎵 Spotify status
 
 <a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
