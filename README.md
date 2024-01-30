@@ -20,7 +20,7 @@
 - JavaScript
 - Spring, SpringBoot
 
-## Connect with Me 🌍
+## 🌍 Connect with Me
 
 - Instagram: [@i_suhailahmed](https://www.instagram.com/i_suhailahmed/)
 - LinkedIn: [R Suhail Ahmed](https://www.linkedin.com/in/rsuhailahmed/)
@@ -28,6 +28,15 @@
 
 Feel free to reach out for collaborations or just a friendly chat!
 
+## 📈 My GitHub Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+<!-- This section can include GitHub stats, streaks, most used languages, etc. -->
+
+---
+
+⭐️ From [suhailahmed](https://github.com/suhailahmed123)
 ---
 
 ## 🎵 Spotify status
