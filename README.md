@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer from Bengaluru, India</h3>
 
 ## 💬 Ask me about
-- Backend web development (Java, Spring, SpringBoot, Hibernate)
+- Backend web development (JavaSE, Jakarta EE, Spring, SpringBoot, Hibernate)
 - Frontend web development (HTML, CSS, JavaScript)
 
 ## 📅 Hobbies
@@ -18,6 +18,7 @@
 ## 📚 Learning
 - React.js
 - JavaScript
+- Jakarta EE
 - Spring, SpringBoot
 
 ## 🌍 Connect with Me
